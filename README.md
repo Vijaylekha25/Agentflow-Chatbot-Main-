@@ -53,7 +53,7 @@ AgentFlow Chatbot is a professional, multi-threaded conversational AI platform b
 <span style="font-size:11pt">
 1. <b>Clone this repository</b>
    <pre>
-   git clone
+   git clone- https://github.com/Vijaylekha25/Agentflow-Chatbot-Main-.git
    cd agentflow-chatbot
    </pre>
 2. <b>Set up your Python environment</b>
